@@ -43,8 +43,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: M THEJESWARAN
+### Register Number: 212223240168
 ```python
 
 import torch
@@ -128,18 +128,19 @@ print(f'Prediction: {prediction}')
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+<img width="182" height="504" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/d3f39b04-83ff-4021-8d97-085f7a69529d" />
 
 ## OUTPUT
 
+<img width="362" height="463" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/cf3a9d19-22a0-4668-a8f4-132eff7591b1" />
+
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/a706ece3-fbe6-4324-8651-3497ac933ebe" />
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img width="297" height="25" alt="PREDICTION" src="https://github.com/user-attachments/assets/859a997f-034f-4e70-9170-eb3cd3950fc7" />
 
 ## RESULT
-
-Include your result here
+Thus the neural network regression model is devoloped , trained and tested sucessfully
